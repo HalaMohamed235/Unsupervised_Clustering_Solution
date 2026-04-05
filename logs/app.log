@@ -1,0 +1,110 @@
+2026-04-03 20:14:47,316 - INFO - Data loaded successfully.
+2026-04-03 20:14:47,322 - INFO - Features selected.
+2026-04-03 20:14:49,110 - INFO - k=3, silhouette_score=0.335580238662684
+2026-04-03 20:14:49,117 - INFO - k=4, silhouette_score=0.40546302077733304
+2026-04-03 20:14:49,122 - INFO - k=5, silhouette_score=0.3575963460506624
+2026-04-03 20:14:49,128 - INFO - k=6, silhouette_score=0.4155672337697055
+2026-04-03 20:14:49,133 - INFO - k=7, silhouette_score=0.4420336177238127
+2026-04-03 20:14:49,139 - INFO - k=8, silhouette_score=0.43280878015743623
+2026-04-03 20:14:49,139 - INFO - Best k found: 7
+2026-04-03 20:14:49,141 - INFO - Model saved successfully.
+2026-04-04 18:13:59,165 - INFO - Data loaded successfully.
+2026-04-04 18:13:59,188 - INFO - Features selected.
+2026-04-04 18:14:01,010 - INFO - k=3 | WCSS=158744.97108013937 | Silhouette=0.335580238662684
+2026-04-04 18:14:01,015 - INFO - k=4 | WCSS=104366.15145556201 | Silhouette=0.40546302077733304
+2026-04-04 18:14:01,021 - INFO - k=5 | WCSS=97211.84353980477 | Silhouette=0.3575963460506624
+2026-04-04 18:14:01,027 - INFO - k=6 | WCSS=68275.94428646986 | Silhouette=0.4155672337697055
+2026-04-04 18:14:01,033 - INFO - k=7 | WCSS=51448.361262593244 | Silhouette=0.4420336177238127
+2026-04-04 18:14:01,038 - INFO - k=8 | WCSS=44640.02804853042 | Silhouette=0.43280878015743623
+2026-04-04 18:14:01,038 - INFO - Best k found: 7
+2026-04-04 18:14:01,045 - INFO - Elbow and Silhouette metrics saved.
+2026-04-04 18:14:01,047 - INFO - Model saved successfully.
+2026-04-04 18:14:34,853 - INFO - Model loaded successfully.
+2026-04-04 18:14:34,853 - INFO - Metrics loaded successfully.
+2026-04-04 18:14:54,696 - INFO - Model loaded successfully.
+2026-04-04 18:14:54,696 - INFO - Metrics loaded successfully.
+2026-04-04 18:14:54,776 - INFO - Prediction made successfully: Cluster 6
+2026-04-04 18:22:05,965 - INFO - Model loaded successfully.
+2026-04-04 18:22:05,981 - INFO - Metrics loaded successfully.
+2026-04-04 18:22:58,343 - INFO - Model loaded successfully.
+2026-04-04 18:22:58,344 - INFO - Metrics loaded successfully.
+2026-04-04 18:22:58,431 - INFO - Prediction successful: Cluster 6
+2026-04-04 18:26:15,954 - INFO - Model loaded successfully.
+2026-04-04 18:26:15,970 - INFO - Metrics loaded successfully.
+2026-04-04 18:26:19,865 - INFO - Model loaded successfully.
+2026-04-04 18:26:19,875 - INFO - Metrics loaded successfully.
+2026-04-04 18:26:19,940 - INFO - Prediction successful: Cluster 6
+2026-04-04 18:26:22,776 - INFO - Model loaded successfully.
+2026-04-04 18:26:22,776 - INFO - Metrics loaded successfully.
+2026-04-04 18:26:51,943 - INFO - Model loaded successfully.
+2026-04-04 18:26:51,943 - INFO - Metrics loaded successfully.
+2026-04-04 18:26:55,116 - INFO - Model loaded successfully.
+2026-04-04 18:26:55,116 - INFO - Metrics loaded successfully.
+2026-04-04 18:26:55,125 - INFO - Prediction successful: Cluster 6
+2026-04-04 18:27:01,564 - INFO - Model loaded successfully.
+2026-04-04 18:27:01,572 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:01,630 - INFO - Model loaded successfully.
+2026-04-04 18:27:01,641 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:01,646 - INFO - Prediction successful: Cluster 2
+2026-04-04 18:27:04,328 - INFO - Model loaded successfully.
+2026-04-04 18:27:04,328 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:25,060 - INFO - Model loaded successfully.
+2026-04-04 18:27:25,060 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:25,160 - INFO - Model loaded successfully.
+2026-04-04 18:27:25,160 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:25,160 - INFO - Prediction successful: Cluster 2
+2026-04-04 18:27:33,176 - INFO - Model loaded successfully.
+2026-04-04 18:27:33,176 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:36,518 - INFO - Model loaded successfully.
+2026-04-04 18:27:36,518 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:36,530 - INFO - Prediction successful: Cluster 2
+2026-04-04 18:27:39,301 - INFO - Model loaded successfully.
+2026-04-04 18:27:39,306 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:54,694 - INFO - Model loaded successfully.
+2026-04-04 18:27:54,694 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:54,765 - INFO - Model loaded successfully.
+2026-04-04 18:27:54,765 - INFO - Metrics loaded successfully.
+2026-04-04 18:27:54,765 - INFO - Prediction successful: Cluster 5
+2026-04-04 18:28:07,446 - INFO - Model loaded successfully.
+2026-04-04 18:28:07,452 - INFO - Metrics loaded successfully.
+2026-04-04 18:28:07,546 - INFO - Model loaded successfully.
+2026-04-04 18:28:07,546 - INFO - Metrics loaded successfully.
+2026-04-04 18:28:07,546 - INFO - Prediction successful: Cluster 5
+2026-04-04 18:31:09,971 - INFO - Model loaded successfully.
+2026-04-04 18:31:09,971 - INFO - Metrics loaded successfully.
+2026-04-04 18:31:19,898 - INFO - Model loaded successfully.
+2026-04-04 18:31:19,900 - INFO - Metrics loaded successfully.
+2026-04-04 18:31:19,904 - INFO - Prediction successful: Cluster 5
+2026-04-04 18:31:22,591 - INFO - Model loaded successfully.
+2026-04-04 18:31:22,591 - INFO - Metrics loaded successfully.
+2026-04-04 18:31:32,959 - INFO - Model loaded successfully.
+2026-04-04 18:31:32,959 - INFO - Metrics loaded successfully.
+2026-04-04 18:31:32,970 - INFO - Prediction successful: Cluster 5
+2026-04-04 18:48:36,153 - INFO - Model loaded successfully.
+2026-04-04 18:48:36,153 - INFO - Metrics loaded successfully.
+2026-04-04 18:48:39,314 - INFO - Model loaded successfully.
+2026-04-04 18:48:39,314 - INFO - Metrics loaded successfully.
+2026-04-04 18:48:39,403 - INFO - Prediction successful: Cluster 6
+2026-04-04 18:48:46,746 - INFO - Model loaded successfully.
+2026-04-04 18:48:46,746 - INFO - Metrics loaded successfully.
+2026-04-04 18:48:46,826 - INFO - Model loaded successfully.
+2026-04-04 18:48:46,826 - INFO - Metrics loaded successfully.
+2026-04-04 18:48:46,826 - INFO - Prediction successful: Cluster 6
+2026-04-04 18:48:50,165 - INFO - Model loaded successfully.
+2026-04-04 18:48:50,165 - INFO - Metrics loaded successfully.
+2026-04-04 19:00:30,681 - INFO - Model loaded successfully.
+2026-04-04 19:00:30,684 - INFO - Metrics loaded successfully.
+2026-04-04 19:04:23,978 - INFO - Model loaded successfully.
+2026-04-04 19:04:23,978 - INFO - Metrics loaded successfully.
+2026-04-04 19:04:27,971 - INFO - Model loaded successfully.
+2026-04-04 19:04:27,971 - INFO - Metrics loaded successfully.
+2026-04-04 19:04:28,079 - INFO - Prediction successful: Cluster 6
+2026-04-04 19:04:30,298 - INFO - Model loaded successfully.
+2026-04-04 19:04:30,299 - INFO - Metrics loaded successfully.
+2026-04-04 19:06:07,598 - INFO - Model loaded successfully.
+2026-04-04 19:06:07,599 - INFO - Metrics loaded successfully.
+2026-04-04 19:06:10,473 - INFO - Model loaded successfully.
+2026-04-04 19:06:10,473 - INFO - Metrics loaded successfully.
+2026-04-04 19:06:10,561 - INFO - Prediction successful: Cluster 6
+2026-04-04 19:06:12,157 - INFO - Model loaded successfully.
+2026-04-04 19:06:12,157 - INFO - Metrics loaded successfully.
