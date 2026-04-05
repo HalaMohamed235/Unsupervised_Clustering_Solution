@@ -8,7 +8,7 @@ By identifying these clusters, a supermarket or mall owner can develop targeted 
 This solution has been modularized from a Jupyter Notebook and deployed as an interactive Streamlit application.
 
 ## Live Demo
-[Insert your Streamlit Cloud Link Here]
+https://hala-unsupervised-clustering-solutions.streamlit.app/
 
 ## Features
 - **Unsupervised Learning**: Implements the K-Means Clustering algorithm to find natural groupings in customer data.
@@ -45,7 +45,7 @@ The model segments customers based on the following key metrics:
 ## Installation & Usage
 
 1. Clone the Repository:
-   git clone https://github.com/YOUR_USERNAME/Unsupervised_Clustering_Solution.git
+   git clone https://github.com/HalaMohamed235/Unsupervised_Clustering_Solution.git
    cd Unsupervised_Clustering_Solution
 
 2. Install Dependencies:
